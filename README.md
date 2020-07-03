@@ -1,4 +1,4 @@
-# Project-FiveM-Mini-Launcher
+# FiveM-Mini-Launcher
 
 **Preview :**
 
