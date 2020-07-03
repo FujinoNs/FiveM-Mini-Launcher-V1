@@ -2,7 +2,7 @@
 นี่คือผลงานของฉันซึ่งฉันเรียนรู้จากการเล่นเกม :)
 **Preview :**
 
-![](https://www.dropbox.com/s/lo12gpifknegwhl/Screenshot_10.png)
+![](https://i.imgur.com/V9nUGyL.png)
 
 # th-TH
 
