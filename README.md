@@ -1,5 +1,5 @@
 # Project-FiveM-Mini-Launcher
-This is my work Which I learned from playing games :)
+นี่คือผลงานของฉันซึ่งฉันเรียนรู้จากการเล่นเกม :)
 
 # th-TH
 
