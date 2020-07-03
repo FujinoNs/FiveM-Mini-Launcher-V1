@@ -1,5 +1,8 @@
 # Project-FiveM-Mini-Launcher
 นี่คือผลงานของฉันซึ่งฉันเรียนรู้จากการเล่นเกม :)
+**Preview :**
+
+![](https://www.dropbox.com/s/lo12gpifknegwhl/Screenshot_10.png)
 
 # th-TH
 
