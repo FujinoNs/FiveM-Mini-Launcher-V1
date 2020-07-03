@@ -1,5 +1,5 @@
-# Project-FiveM-Mini-Launcher-V1
-นี่คือผลงานของฉันซึ่งฉันเรียนรู้จากการเล่นเกม :)
+# Project-FiveM-Mini-Launcher
+This is my work Which I learned from playing games :)
 
 # th-TH
 
@@ -32,4 +32,3 @@ https://www.dropbox.com/sh/9wi7tkpmludeyro/AABcoqqShC8QeEso3YXtVDUha?dl=0
 Youtube: https://www.youtube.com/FujinoNs
 Discord: https://discord.gg/ySfm6Ud
 Steam: https://steamcommunity.com/id/kirijitoi1412/
-
